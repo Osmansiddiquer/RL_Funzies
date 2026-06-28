@@ -67,6 +67,7 @@ __pypackages__/
 # Environments
 .env
 .venv
+.ppo_scratch
 env/
 venv/
 ENV/

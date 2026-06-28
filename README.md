@@ -16,6 +16,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+source .ppo_scratch/bin/activate
 ## Usage
 
 TODO: Add usage instructions.
